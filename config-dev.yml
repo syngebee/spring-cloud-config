@@ -1,1 +1,2 @@
-test cloud-config-center
+config: 
+  info: testInfo
